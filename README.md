@@ -1,4 +1,15 @@
 
+# 💫 Hi 👋, I'm Krishna Makhija
+**I build AI agents that replace a task someone was doing by hand — not projects that look good in a README.**
+
+- 🔭 **I’m currently working on:** AI Financial Agent & BI Automation Dashboard
+- 🌱 **I’m currently learning:** Agentic workflows, Mysql connector
+- 👯 **I’m looking to collaborate on:** LLM-powered agents & RAG pipelines for automating manual reporting/analysis workflows
+- 🤔 **I’m looking for help with:** deploying LLM apps at scale, or a specific technical blocker
+- 💬 **Ask me about:** LangChain, RAG, FastAPI, AI automation
+- 😄 **Pronouns:** Krishna Makhija
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/krishna-makhija-8b79b3344/) 
 
@@ -8,6 +19,12 @@
 ![](https://github-readme-stats.shion.dev/api?username=TechwithKrishna&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=TechwithKrishna&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=TechwithKrishna&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=TechwithKrishna&theme=radical&no-frame=false&no-bg=true&margin-w=4)
